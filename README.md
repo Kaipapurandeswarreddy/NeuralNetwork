@@ -1,0 +1,2 @@
+# NeuralNetwork
+practise of nn
